@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Javascript and Cybersecurity**
 
-- ⚡ Fun fact **I'm trying content creation too lol**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
