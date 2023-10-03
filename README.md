@@ -1,5 +1,5 @@
 ### Hey, I'm Gabriel 👋
-- 🔭 I’m currently working on an app for college students
+I specialize in React Native and Javascript as a Mobile Software Engineer.
 
 
 <p align='center'>
