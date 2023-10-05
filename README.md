@@ -2,19 +2,15 @@
 I specialize in React Native and Javascript as a Mobile Software Engineer.
 
 
+## 📫 Contact
+
 <p align='center'>
-<a href="mailto:guruliciousjide@gmail.com">
+<a href="mailto:sedinam436@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/iamjideguru">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://www.instagram.com/sedi.dev/">
+  <img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/festus-olusegun-b2b197128/">
+<a href="https://www.linkedin.com/in/gabriel-sedinam-41b45022b/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.twitch.tv/jideguru">
-  <img src="https://img.shields.io/badge/twitch-%236441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://medium.com/@jideguru">
-  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
